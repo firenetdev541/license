@@ -8,6 +8,10 @@
     {
       "licenseCode":"12345",
       "allowedTotal":"10"
+    },
+    {
+      "licenseCode":"123456",
+      "allowedTotal":"10"
     }
   ]
 }
