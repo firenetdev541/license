@@ -1,1 +1,9 @@
-{"dataTitle":"License","licenseList":[{"licenseCode":"12345","allowedTotal":"10"}]}
+{
+  "dataTitle":"License",
+  "licenseList":  [
+    {
+      "licenseCode":"1234",
+      "allowedTotal":"10"
+    }
+  ]
+}
